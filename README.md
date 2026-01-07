@@ -28,18 +28,46 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 
 ### 📂 Featured Projects
 
-#### NextStep Job Seeker Platform
+#### NextStep Job Seeker Platform (Capstone)
+* **Technologies**: JavaScript, MongoDB Atlas, OpenAI API, React.js, Node.js.
 * Developed a **swipe-based interface** for job applications to enhance user engagement.
-* Integrated **OpenAI APIs** for natural language search to find jobs with MongoDB Atlas for intelligent, semantic job matching.
-* Built a personalized recommendation algorithm based on user profiles and interaction history.
+* Integrated **OpenAI APIs** with MongoDB Atlas for intelligent, semantic job matching.
+* Created a personalized job recommendation algorithm based on user profiles and interaction history.
 
-#### API-Driven Mobile Applications
-* Weather Tracker: Built a location-based app using OpenWeather API for real-time meteorological data.
-* Cocktail Recipe Browser: Integrated TheCocktailDB API to allow users to search and filter dynamic content.
+#### Music Player Web Application
+* **Technologies**: React.js, Howler.js.
+* Built a responsive audio player with playback controls, volume management, and track seeking.
+* Utilized **React hooks** for state management and Howler.js for multimedia handling.
+
+#### Mobile Application Development
+* **Technologies**: React Native, OpenWeather API, TheCocktailDB API.
+* Developed a **location-based weather tracker** and a dynamic drinks recipe browsing application.
+
+#### Interactive Game Portfolio
+* **Technologies**: TypeScript, React, Vue, Angular, C++.
+* Created various browser-based games including Uno, Flappy Bird, and a Tower of Hanoi solver.
+* Developed a **Maze Navigation Challenge in C++** focusing on pathfinding and memory management.
+
+#### Java Insurance Management System
+* **Technologies**: Java, SQL, Oracle Database, JDBC.
+* Developed a console-based system supporting **CRUD operations** for customer records.
+* Implemented secure database connectivity using **JDBC and SQL prepared statements**.
 
 #### 3D Graphics Rendering Engine
-* Developed 2D and 3D graphics applications using **C++ and OpenGL**.
-* Implemented **ray tracing algorithms** and advanced illumination models like Phong and Blinn-Phong shading.
+* **Technologies**: OpenGL, C++, Computer Graphics, Linear Algebra.
+* Developed 2D and 3D graphics applications using **C++ and OpenGL** for real-time visualization.
+* Implemented **Ray Tracing algorithms** and advanced illumination models like Phong and Blinn-Phong shading.
+* Integrated texture mapping and environment mapping for enhanced surface realism.
+
+#### Custom Programming Language Compiler
+* **Technologies**: C++, Compiler Design, Parsing Algorithms.
+* Designed and implemented a **lexical analyzer** and **recursive descent parser** from scratch.
+* Created **Abstract Syntax Tree (AST)** generation for intermediate code representation.
+
+#### US Population Growth Visualizer
+* **Technologies**: D3.js, HTML, CSS, API Integration.
+* Developed a data visualization web application illustrating US population trends.
+* Utilized **D3.js scales, axes, and SVG elements** for dynamic visualization updates.
 
 ---
 
