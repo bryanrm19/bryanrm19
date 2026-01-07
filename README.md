@@ -7,7 +7,7 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 ### 🚀 Quick Overview
 
 - 🔭 **I’m currently working on**: Enhancing my **NextStep Job Seeker Platform**, a full-stack application using AI for semantic job matching.
-- 🌱 **I’m currently learning**: Advanced **Cloud & DevOps** workflows using Docker and Azure.
+- 🌱 **I’m currently learning**: Advanced **Cloud and DevOps** workflows using Docker and Azure.
 - 👯 **I’m looking to collaborate on**: Open-source projects involving **Computer Graphics**, **OpenGL**, or **React Native**.
 - 💬 **Ask me about**: Full-stack development, **AI features integration using OpenAI**, n8n based Agentic automation or data visualization with **D3.js**.
 - 📫 **How to reach me**: LinkedIn (https://www.linkedin.com/in/bryan-mathews-a43b97313).
@@ -21,7 +21,7 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 * **Frameworks**: React.js, Node.js, Vue.js, Angular, React Native, D3.js, Howler.js, Java Swing.
 * **Databases**: Oracle, MongoDB, MySQL, PostgreSQL, MongoDB Atlas.
 * **Tools and APIs**: Postman, Ollama, OpenAI API, n8n, PlantUML, Draw.io.
-* **Cloud & DevOps**: Git, Docker, Azure, Vercel, Render.
+* **Cloud and DevOps**: Git, Docker, Azure, Vercel, Render.
 * **Operating Systems**: Windows, Linux/Unix, MacOS.
 
 ---
@@ -65,9 +65,9 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 * Created **Abstract Syntax Tree (AST)** generation for intermediate code representation.
 
 #### US Population Growth Visualizer
-* **Technologies**: D3.js, HTML, CSS, API Integration.
+* **Technologies**: D3.js, HTML5, CSS3, API Integration.
 * Developed a data visualization web application illustrating US population trends.
-* Utilized **D3.js scales, axes, and SVG elements** for dynamic visualization updates.
+* Utilized **D3.js and SVG elements** for dynamic visualization updates.
 
 ---
 
