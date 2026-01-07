@@ -28,16 +28,16 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 
 ### 📂 Featured Projects
 
-#### [NextStep Job Seeker Platform]
+#### NextStep Job Seeker Platform
 * Developed a **swipe-based interface** for job applications to enhance user engagement.
 * Integrated **OpenAI APIs** for natural language search to find jobs with MongoDB Atlas for intelligent, semantic job matching.
 * Built a personalized recommendation algorithm based on user profiles and interaction history.
 
-#### [API-Driven Mobile Applications]
+#### API-Driven Mobile Applications
 * Weather Tracker: Built a location-based app using OpenWeather API for real-time meteorological data.
 * Cocktail Recipe Browser: Integrated TheCocktailDB API to allow users to search and filter dynamic content.
 
-#### [3D Graphics Rendering Engine]
+#### 3D Graphics Rendering Engine
 * Developed 2D and 3D graphics applications using **C++ and OpenGL**.
 * Implemented **ray tracing algorithms** and advanced illumination models like Phong and Blinn-Phong shading.
 
