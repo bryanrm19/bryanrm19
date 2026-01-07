@@ -31,7 +31,7 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 #### NextStep Job Seeker Platform (Capstone)
 * **Technologies**: JavaScript, MongoDB Atlas, OpenAI API, React.js, Node.js, Express.js, Apify, n8n.
 * Developed a **swipe-based interface** for job applications to enhance user engagement.
-* Integrated **OpenAI APIs** with MongoDB Atlas for intelligent, semantic job matching.
+* Integrated with **OpenAI APIs** and MongoDB Atlas for intelligent, semantic job matching.
 * Created a personalized job recommendation algorithm based on user profiles and interaction history.
 
 #### Music Player Web Application
