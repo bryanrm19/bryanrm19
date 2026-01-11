@@ -17,12 +17,13 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 
 ### 🛠 Technical Skills
 
-* **Languages**: Java, Python, C++, JavaScript, SQL, HTML5, CSS3.
-* **Frameworks**: React.js, Node.js, Vue.js, Angular, React Native, D3.js, Howler.js, Java Swing.
-* **Databases**: Oracle, MongoDB, MySQL, PostgreSQL, MongoDB Atlas.
-* **Tools and APIs**: Postman, Ollama, OpenAI API, n8n, PlantUML, Draw.io.
-* **Cloud and DevOps**: Git, Docker, Azure, Vercel, Render.
-* **Operating Systems**: Windows, Linux/Unix, MacOS.
+* **Core Concepts**: Data Structures and Algorithms, Object-Oriented Programming, RDBMS, Full-Stack Development, UI/UX Design, Compiler Design, Parsing Algorithms, Computer Graphics (Ray Tracing, Shaders), AI/ML Integration
+* **Languages (Proficient)**: Java, Python, C++, JavaScript, SQL, HTML5, CSS3
+* **Languages (Familiar)**: C#, VB.NET, C, Assembly, TypeScript
+* **Frameworks & Libraries**: React.js, Node.js, Vue.js, Angular, ASP.NET, ASP.NET MVC, React Native, D3.js, Howler.js, Java Swing, OpenGL
+* **Database Tools**: Oracle, MongoDB, MySQL, PostgreSQL
+* **Cloud and DevOps**: Git, Docker, Azure, Vercel, Render, MongoDB Atlas
+* **Development Tools**: VS Code, Visual Studio, Postman, n8n, Ollama, OpenAI API, PlantUML, Draw.io
 
 ---
 
