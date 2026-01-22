@@ -4,14 +4,14 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 
 ---
 
-### 🚀 Quick Overview
+### Quick Overview
 
-- 🔭 **I’m currently working on**: Enhancing my **NextStep Job Seeker Platform**, a full-stack application using AI for semantic job matching.
-- 🌱 **I’m currently learning**: Advanced **Cloud and DevOps** workflows using Docker and Azure.
-- 👯 **I’m looking to collaborate on**: Open-source projects involving **Computer Graphics**, **OpenGL**, or **React Native**.
-- 💬 **Ask me about**: Full-stack development, **AI features integration using OpenAI**, n8n based Agentic automation or data visualization with **D3.js**.
-- 📫 **How to reach me**: LinkedIn (https://www.linkedin.com/in/bryan-mathews-r19).
-- ⚡ **Fun fact**: I served as an **Assistant Marching Band Director** at CD East High during my college years, where I helped choreograph shows and instruct students.
+- **I’m currently working on**: Enhancing my **NextStep Job Seeker Platform**, a full-stack application using AI for semantic job matching.
+- **I’m currently learning**: Advanced **Cloud and DevOps** workflows using Docker and Azure.
+- **I’m looking to collaborate on**: Open-source projects involving **Computer Graphics**, **OpenGL**, or **React Native**.
+- **Ask me about**: Full-stack development, **AI features integration using OpenAI**, n8n based Agentic automation or data visualization with **D3.js**.
+- **How to reach me**: LinkedIn (https://www.linkedin.com/in/bryan-mathews-r19).
+- **Fun fact**: I served as an **Assistant Marching Band Director** at CD East High during my college years, where I helped choreograph shows and instruct students.
 
 ---
 
