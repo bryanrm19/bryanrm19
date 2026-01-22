@@ -72,7 +72,7 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 
 ---
 
-### 💼 Career Interests
+### Career Interests
 I am **actively seeking Full-Stack Developer roles and Internship opportunities**. I bring a strong foundation in core CS principles, a proactive approach to problem-solving, and a collaborative spirit.
 
 ---
