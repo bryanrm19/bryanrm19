@@ -17,13 +17,13 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 
 ### 🛠 Technical Skills
 
-* **Core Concepts**: Data Structures and Algorithms, Object-Oriented Programming, RDBMS, Full-Stack Development, UI/UX Design, Compiler Design, Parsing Algorithms, Computer Graphics (Ray Tracing, Shaders), AI Integration
-* **Languages (Proficient)**: Java, Python, C++, JavaScript, SQL, HTML5, CSS3
-* **Languages (Familiar)**: C#, VB.NET, C, Assembly, TypeScript
-* **Frameworks & Libraries**: React.js, Node.js, Vue.js, Angular, ASP.NET, React Native, D3.js, Howler.js, Java Swing, OpenGL
-* **Database Tools**: Oracle, MongoDB, MySQL, PostgreSQL
-* **Cloud and DevOps**: Git, Docker, Azure, Vercel, Render, MongoDB Atlas
-* **Development Tools**: VS Code, Visual Studio, Postman, n8n, Ollama, OpenAI API, PlantUML, Draw.io
+* **Core Concepts**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Relational Database Management Systems (RDBMS), Full-Stack Development, UI/UX Design, Compiler Design, Parsing Algorithms, Computer Graphics (Ray Tracing, Shaders), Artificial Intelligence (AI) Integration
+* **Programming Languages (Proficient)**: Java, Python, C++, JavaScript, SQL, HTML5, CSS3
+* **Programming Languages (Familiar)**: C#, C, TypeScript, x86 Assembly
+* **Frameworks & Libraries**: React.js, Node.js, Vue.js, Angular, React Native, ASP.NET, D3.js, Howler.js
+* **Databases**: Oracle 12g, MongoDB Atlas, PostgreSQL
+* **Cloud, DevOps & Infrastructure**: Azure, Azure DevOps, Azure CLI, Docker, Kubernetes, Git, GitHub, Vercel, Render
+* **Development & Productivity Tools**: VS Code, Visual Studio Community Edition, Eclipse, IntelliJ
 
 ---
 
