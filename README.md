@@ -29,6 +29,17 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 
 ### 📂 Featured Projects
 
+### **AI Mockup-to-Code Converter**
+**Repository:** [github.com/bryanrm19/ui-gen](https://github.com/bryanrm19/ui-gen)
+* **Technologies**: React.js, OpenAI GPT-4o (Vision).
+* Developed an intelligent system that transforms hand-drawn UI sketches and digital wireframes into functional, working prototype in seconds.
+* Integrated with **OpenAI Vision APIs** to analyze spatial relationships, labels, and UI components from user-uploaded images.
+* **Key Features**: 
+    * **Real-time Code Generation**: Simultaneously produces clean HTML, CSS, and JavaScript structured for modern web standards.
+    * **Interactive Preview**: Features a side-by-side live rendering engine allowing users to "Run Changes" and see code edits reflected instantly.
+    * **Bootstrap UI System**: Automatically maps sketched elements (like dropdowns, forms, and buttons) to responsive Bootstrap components.
+    * **Developer Workflow Tools**: Includes one-click "Copy to Clipboard" and easy image swapping for rapid iterative design-to-code cycles.
+
 #### NextStep Job Seeker Platform (Capstone)
 * **Technologies**: JavaScript, MongoDB Atlas, OpenAI API, React.js, Node.js, Express.js, Apify, n8n.
 * Developed a **swipe-based interface** for job applications to enhance user engagement.
