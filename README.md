@@ -37,7 +37,7 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 * **Key Features**: 
     * **Real-time Code Generation**: Simultaneously produces clean HTML, CSS, and JavaScript structured for modern web standards.
     * **Interactive Preview**: Features a side-by-side live rendering engine allowing users to "Run Changes" and see code edits reflected instantly.
-    * **Bootstrap UI System**: Automatically maps sketched elements (like dropdowns, forms, and buttons) to responsive Bootstrap components.
+    * **Framework-Agnostic Generation**: Utilizes a prompt-driven logic to map sketches to Bootstrap UI (or another). The underlying system is UI-agnostic, meaning the generated code can be pivoted to any framework simply by adjusting the AI's instructional context.
     * **Developer Workflow Tools**: Includes one-click "Copy to Clipboard" and easy image swapping for rapid iterative design-to-code cycles.
 
 #### NextStep Job Seeker Platform (Capstone)
