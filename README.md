@@ -18,8 +18,8 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 ### 🛠 Technical Skills
 
 * **Core Concepts**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Relational Database Management Systems (RDBMS), Full-Stack Development, UI/UX Design, Compiler Design, Parsing Algorithms, Computer Graphics (Ray Tracing, Shaders), Artificial Intelligence (AI) Integration
-* **Programming Languages (Proficient)**: Java, Python, C++, JavaScript, SQL, HTML5, CSS3
-* **Programming Languages (Familiar)**: C#, C, TypeScript, x86 Assembly
+* **Programming Languages (Proficient)**: Java, C++, JavaScript, SQL, HTML5, and CSS3.
+* **Programming Languages (Familiar)**: C#, C, TypeScript, Python, and x86 Assembly.
 * **Frameworks & Libraries**: React.js, Node.js, Vue.js, Angular, React Native, ASP.NET, D3.js, Howler.js
 * **Databases**: Oracle 12g, MongoDB Atlas, PostgreSQL
 * **Cloud, DevOps & Infrastructure**: Azure, Azure DevOps, Azure CLI, Docker, Kubernetes, Git, GitHub, Vercel, Render
