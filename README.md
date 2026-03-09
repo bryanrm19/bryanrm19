@@ -29,11 +29,29 @@ I am a **Computer Science** graduate from **Penn State Harrisburg** (Class of Fa
 
 ### 📂 Featured Projects
 
+### **AI-Powered Customer Service Assistant (Real-Time AI Copilot)**
+**Repository:** [github.com/bryanrm19/cs-ai-copilot](https://github.com/bryanrm19/cs-ai-copilot)
+* **Technologies**: React.js, Node.js, PostGreSQL, Docker, Twilio API, Deepgram Speech-To-Text, RAG with pgvector, OpenAI Integration.
+   * Built a real-time speech-to-insight pipeline converting live call audio into structured conversational data
+   * Implemented AI-driven topic shift detection to identify new discussion themes during calls
+   * Developed a semantic knowledge retrieval system using vector embeddings to surface relevant documentation instantly
+   * Designed a response suggestion engine that synthesizes transcripts, knowledge base results, and customer data into agent-ready insights
+   * Implemented automated post-call summarization that generates structured conversation summaries for storage and review
+   * Created an admin interface for uploading and managing company knowledge base documents used by the AI assistant
+
+* **Key Engineering Concepts**
+   * Real-time streaming systems using WebSockets
+   * Speech-to-text integration with live audio processing
+   * Topic detection and conversational context tracking
+   * Vector embeddings and semantic search
+   * AI-assisted decision support systems for human agents
+
 ### **AI Mockup-to-Code Converter**
 **Repository:** [github.com/bryanrm19/ui-gen](https://github.com/bryanrm19/ui-gen)
 * **Technologies**: React.js, OpenAI GPT-4o (Vision).
-* Developed an intelligent system that transforms hand-drawn UI sketches and digital wireframes into functional, working prototype in seconds.
-* Integrated with **OpenAI Vision APIs** to analyze spatial relationships, labels, and UI components from user-uploaded images.
+   * Developed an intelligent system that transforms hand-drawn UI sketches and digital wireframes into functional, working prototype in seconds.
+   * Integrated with **OpenAI Vision APIs** to analyze spatial relationships, labels, and UI components from user-uploaded images.
+
 * **Key Features**: 
     * **Real-time Code Generation**: Simultaneously produces clean HTML, CSS, and JavaScript structured for modern web standards.
     * **Interactive Preview**: Features a side-by-side live rendering engine allowing users to "Run Changes" and see code edits reflected instantly.
